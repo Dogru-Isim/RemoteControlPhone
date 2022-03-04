@@ -1,6 +1,6 @@
 # RemoteControlPhone
 
-NOTE: This is just a demo for now but it does the job. Also, probably work just for android.
+NOTE: This is just a demo for now but it does the job. Also, will probably work just for android.
 
 Connect your phone to your PC (or vice versa) via WiFi. (Also, I didn't check but the program will probably work for other devices too, like a tablet or another phone if they have the installations which are necessary) to simulate your mouse (moves, clicks (right click has and the wheel has not been yet implemented))
 
