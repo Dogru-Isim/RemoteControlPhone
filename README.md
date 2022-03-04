@@ -4,6 +4,7 @@ Connect your phone to your PC (or vice versa) via WiFi. (Also, I didn't check bu
 How to connect your devices:
   In the future I will make this done from the app itself but for now, you need to change the IP address line (which you can find just by using CTRL+F and searching for the word "customize") to your peer device's address for both of the devices' code.
 
+=-=-=-=-=-=-=-=-=-=-=-=-
 
 How to drag:
   
@@ -11,6 +12,7 @@ How to drag:
 
 NOTE: Currently working on fixing this.
 
+=-=-=-=-=-=-=-=-=-=-=-=-
 
 How to click:
   Click on the button at the bottom. 
