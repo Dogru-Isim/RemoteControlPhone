@@ -20,11 +20,12 @@ Connect your phone to your PC (or vice versa) via WiFi. (Also, I didn't check bu
   
   The cursor goes where the circle is in your phone. So if you release your finger and touch somewhere else on your phone, the cursor will go away from the previous  position which can sometimes be annoying. (for the cases that you want to move your mouse just a little bit)
 
-NOTE: Currently working on fixing this.
-
 =-=-=-=-=-=-=-=-=-=-=-=-
 
 **How to click:**
   Click on the button at the bottom. 
 
-  Clicking to the click button which has a dedicated area sometimes gets annoying. I will remove the feature of clicking from it and will make it change the mode of the app (left click to right click or wheel mode etc.) when it's clicked on. Clicks will be processed regardless of wherever you touch on the screen.
+  Clicking to a click button which has a dedicated area can sometimes get annoying. I will remove the feature of clicking from it and will make it change the mode of the app (left click to right click or wheel mode etc.) when it's clicked on. Clicks will be processed regardless of wherever you touch on the screen.
+ 
+ NOTE: Currently working on this.
+
