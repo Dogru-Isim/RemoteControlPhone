@@ -1,7 +1,17 @@
 # RemoteControlPhone
+
+NOTE: This is not just a demo for now but does the job. Also, probably work just for android.
+
 Connect your phone to your PC (or vice versa) via WiFi. (Also, I didn't check but the program will probably work for other devices too, like a tablet or another phone if they have the installations which are necessary) to simulate your mouse (moves, clicks (right click has and the wheel has not been yet implemented))
 
-How to connect your devices:
+=-=-=-=-=-=-=-=-=-=-=-=-
+
+**How to install:**
+  You need to install Processing, then download the LocalDevice.pde file to your android phone by using the Android mode of Processing IDE over a USB cable. Now, open up your app, then open the RemoteDevice.pde file on the IDE, click the start button.
+
+=-=-=-=-=-=-=-=-=-=-=-=-
+
+**How to connect your devices:**
   In the future I will make this done from the app itself but for now, you need to change the IP address line (which you can find just by using CTRL+F and searching for the word "customize") to your peer device's address for both of the devices' code.
 
 =-=-=-=-=-=-=-=-=-=-=-=-
