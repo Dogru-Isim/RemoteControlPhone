@@ -2,7 +2,7 @@
 
 NOTE: This is just a demo for now but it does the job. Also, it will probably work just for android.
 
-Connect your phone to your PC (or vice versa) via WiFi. (Also, I didn't check but the program will probably work for other devices too, like a tablet or another phone if they have the installations which are necessary) to simulate your mouse (moves, clicks (right click has and the wheel has not been yet implemented))
+Connect your phone to your PC via WiFi. (I didn't check but the program will probably work for other devices too, like a tablet or another phone if they have the necessary installations) to simulate your mouse (moves, clicks) (right click and the wheel has not been yet implemented)
 
 =-=-=-=-=-=-=-=-=-=-=-=
 
